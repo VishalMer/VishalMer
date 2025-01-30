@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/vishalmer)
+[![GitHub followers](https://img.shields.io/github/followers/vishal?label=Follow&style=social)](https://github.com/vishalmer)
 
 ## About Me
 
