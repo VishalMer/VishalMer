@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Vishal 👋
 
-<!--
-**VishalMer/VishalMer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/vishalmer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vishalmer)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a [Student] with a passion for [Web Development]. I love working on projects related to [Web Designing and Development] and sharing my knowledge with the community.
+
+- 🔭 I’m currently working on: Open Source Projects
+- 🌱 I’m currently learning: Full-stack Development
+- 👯 I’m looking to collaborate on: flutter
+- 💬 Ask me about: [PHP, C#, JAVA, JavaScript and Web Development]
+- 📫 How to reach me: [vmer891@gmail.com]
+- ⚡ Fun fact: [I love travelling and music!]
+
+## My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmer&layout=compact&theme=radical)
+
+## Recent Projects
+
+Here are a few projects:
+
+- [Rock Paper Scissor](https://github.com/VishalMer/Projects/tree/main/Rock%20Paper%20Scissor): A responsive Rock Paper Scissor game.
+- [Tic Tac Toe](https://github.com/VishalMer/Projects/tree/main/Tic%20Tac%20Toe): A responsive Tic Tac Toe game.
+
+## Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/itz_mer_)
+
