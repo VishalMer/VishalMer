@@ -1,18 +1,17 @@
 # Hi there, I'm Vishal 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/vishalmer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vishal-mer)
 
 ## About Me
 
 I'm a **Student** with a passion for **Web Development**. I love working on projects related to **Web Designing and Development** and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on: **Open Source Projects**
-- 🌱 I’m currently learning: **Full-stack Development**
-- 👯 I’m looking to collaborate on: **flutter**
-- 💬 Ask me about: **PHP, C#, JAVA, JavaScript and Web Development**
-- 📫 How to reach me: **vmer891@gmail.com**
-- ⚡ Fun fact: I love travelling and music!
+- 🔭 I’m currently working on : **Open Source Projects**
+- 🌱 I’m currently learning : **Full-stack Development**
+- 👯 I’m looking to collaborate on : **flutter**
+- 💬 Ask me about : **PHP, C#, JAVA, JavaScript and Web Development**
+- 📫 How to reach me : **vmer891@gmail.com**
+- ⚡ Fun fact : I love travelling and music!
 
 ## My GitHub Stats
 
@@ -24,8 +23,8 @@ I'm a **Student** with a passion for **Web Development**. I love working on proj
 
 Here are a few projects:
 
-- [Rock Paper Scissor](https://github.com/VishalMer/Projects/tree/main/Rock%20Paper%20Scissor): A responsive Rock Paper Scissor game.
-- [Tic Tac Toe](https://github.com/VishalMer/Projects/tree/main/Tic%20Tac%20Toe): A responsive Tic Tac Toe game.
+- [Rock Paper Scissor](https://github.com/VishalMer/Projects/tree/main/Rock%20Paper%20Scissor) : A responsive Rock Paper Scissor game.
+- [Tic Tac Toe](https://github.com/VishalMer/Projects/tree/main/Tic%20Tac%20Toe) : A responsive Tic Tac Toe game.
 
 ## Connect with Me
 
