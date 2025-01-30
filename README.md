@@ -1,7 +1,7 @@
 # Hi there, I'm Vishal 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/vishalmer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vishalmer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vishal-mer)
 
 ## About Me
 
@@ -30,4 +30,5 @@ Here are a few projects:
 ## Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/itz_mer_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vishal-mer)
 
