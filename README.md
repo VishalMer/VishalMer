@@ -10,7 +10,7 @@ I'm a **Student** with a passion for **Web Development**. I love working on proj
 - 👯 I’m looking to collaborate on : **flutter**
 - 💬 Ask me about : **PHP, C#, JAVA, JavaScript and Web Development**
 - 📫 How to reach me : **vmer891@gmail.com**
-- ⚡ Fun fact : I love travelling and music!
+- ⚡ Fun fact : I love **travelling** and **music**!
 
 ## My GitHub Stats
 
