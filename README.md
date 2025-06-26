@@ -5,12 +5,10 @@
 
 I'm a **Student** with a passion for **Web Development**. I love working on projects related to **Web Designing and Development** and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on : **Open Source Projects**
 - 🌱 I’m currently learning : **Full-stack Development**
 - 👯 I’m looking to collaborate on : **flutter**
-- 💬 Ask me about : **PHP, C#, JAVA, JavaScript and Web Development**
+- 💬 Ask me about : **PHP, C#, JAVA, JavaScript, SQL, Node JS and Web Development**
 - 📫 How to reach me : **vmer891@gmail.com**
-- ⚡ Fun fact : I love **travelling** and **music**!
 
 ## My GitHub Stats
 
