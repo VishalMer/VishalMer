@@ -1,6 +1,6 @@
 # Hi there, I'm Vishal 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/vishalmer)
+
 ## About Me
 
 I'm a **Student** with a passion for **Web Development**. I love working on projects related to **Web Designing and Development** and sharing my knowledge with the community.
