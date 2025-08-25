@@ -4,7 +4,7 @@
     Hi there, I'm Vishal
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>A passionate Full Stack Developer from Rajkot</h3>
+  <h3>A passionate Full Stack Developer from Amreli</h3>
 </div>
 
 <div align="center">
@@ -77,7 +77,7 @@ Here are some of the technologies I work with:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmer&layout=compact&langs_count=8&theme=dracula" alt="Your Top Languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmer&theme=dracula" alt="Your GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishalMer&theme=dracula" alt="Your GitHub Streak"/>
 </div>
 
 ---
