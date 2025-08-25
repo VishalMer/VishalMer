@@ -22,7 +22,7 @@ I'm a **Student** with a passion for **Web Development**. I love working on proj
 
 ## Recent Projects
 
-Here are a few projects:
+//Here are a few projects:
 
 - [Rock Paper Scissor](https://github.com/VishalMer/Projects/tree/main/Rock%20Paper%20Scissor) : A responsive Rock Paper Scissor game.
 - [Tic Tac Toe](https://github.com/VishalMer/Projects/tree/main/Tic%20Tac%20Toe) : A responsive Tic Tac Toe game.
