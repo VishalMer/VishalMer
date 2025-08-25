@@ -73,11 +73,11 @@ Here are some of the technologies I work with:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmer&layout=compact&langs_count=8&theme=dracula" alt="Your Top Languages"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishalmer&theme=dracula" alt="Your GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmer&theme=dracula" alt="Your GitHub Streak"/>
 </div>
 
 ---
