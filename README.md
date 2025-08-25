@@ -12,11 +12,12 @@ I'm a **Student** with a passion for **Web Development**. I love working on proj
 
 ## My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmer&layout=compact&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmer&show_icons=true&theme=dark" alt="vishalmer" /></p><br>
+<p>
+<img alt="most used Language " align="left" width="47%" src="https://githubreadmestats.vercel.app/api/toplangs/username=vishalmer&show_icons=true&theme=dark&layout=compact"/>
+</p>
+<p><img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=dark" /></p>
+<br>
 
 ## Recent Projects
 
