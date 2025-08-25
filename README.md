@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDx80o/giphy.gif" width="100"/>
+  
   <h1>
     Hi there, I'm Vishal
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -76,7 +76,7 @@ Here are some of the technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmer&layout=compact&langs_count=8&theme=dracula" alt="Your Top Languages"/>
-   <img src="https://github-readme-streak-stats.vercel.app/?user=VishalMer&theme=dracula" alt="GitHub Streak"/>
+   <img src="https://raw.githubusercontent.com/VishalMer/VishalMer/output/github-contribution-grid-snake.svg" alt="Animated Snake Contribution Graph"/>
 </div>
 
 ---
