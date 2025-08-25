@@ -14,8 +14,9 @@ I'm a **Student** with a passion for **Web Development**. I love working on proj
 
 
 <p>
-<img alt="most used Language " align="left" width="47%" src="https://githubreadmestats.vercel.app/api/toplangs/username=vishalmer&show_icons=true&theme=dark&layout=compact"/>
+<img alt="most used Language " align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmer&show_icons=true&theme=dark&layout=compact"/>
 </p>
+
 <p><img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=dark" /></p>
 <br>
 
