@@ -72,13 +72,14 @@ Here are some of the technologies I work with:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmer&layout=compact&langs_count=8&theme=dracula" alt="Your Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats"/>
-    <br/>
-    <br/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalmer&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmer&show_icons=true&theme=dark" alt="vishalmer" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmer&layout=compact&langs_count=8&theme=dracula" alt="Your Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalmer&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats"/>-->
 
 ---
 
