@@ -4,7 +4,7 @@
     Hi there, I'm Vishal
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h3>A passionate Full Stack Developer from Amreli</h3>
+  <h3>Connect with me</h3>
 </div>
 
 <div align="center">
