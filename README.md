@@ -17,14 +17,18 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Android+App+Enthusiast;Tech+Learner" alt="Typing SVG" />
+</div>
+
 ---
 
-### 👨‍💻 About Me
+### 📬 Get in Touch
 
-- 🌱 I’m currently learning : **Full-stack Development**
-- 👯 I’m looking to collaborate on : **flutter**
-- 💬 Ask me about : **PHP, C#, JAVA, JavaScript, SQL, Node JS and Web Development**
-- 📫 How to reach me : **vmer891@rku.ac.in**
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+- **Email**: [vmer891@rku.ac.in](mailto:vmer891@rku.ac.in)
+- **LinkedIn**: [vishal-mer](https://www.linkedin.com/in/vishal-mer)
 
 ---
 
@@ -34,15 +38,15 @@ Here are some of the technologies I work with:
 
 **Languages:**
 <p>
-  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 </p>
 
 **Frameworks & Libraries:**
@@ -50,6 +54,7 @@ Here are some of the technologies I work with:
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"></a>
 </p>
 
 **Databases:**
@@ -65,6 +70,8 @@ Here are some of the technologies I work with:
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
   <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
   <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+  <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"></a>
   <a href="https://cursor.sh/"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-17BEBB?style=for-the-badge&logo=cursor&logoColor=white"></a>
 </p>
 
@@ -79,8 +86,6 @@ Here are some of the technologies I work with:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalmer&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=vishalmer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Your GitHub Stats"/>-->
-
 ---
 
 ### ✨ My Favorite Quote
@@ -88,3 +93,7 @@ Here are some of the technologies I work with:
 > "Discipline Feels Like FREEDOM!"
 
 ---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/vishalmer/count.svg" alt="Visitor Count" />
+</p>
