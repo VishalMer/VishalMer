@@ -51,6 +51,7 @@ Here are some of the technologies I work with:
 
 **Frameworks & Libraries:**
 <p>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
@@ -80,7 +81,8 @@ Here are some of the technologies I work with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmer&show_icons=true&theme=dark" alt="vishalmer" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmer&layout=compact&langs_count=8&theme=dracula" alt="Your Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmer&show_icons=true&theme=dark" alt="vishalmer" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmer&layout=compact&langs_count=8&theme=dracula" alt="Your Top Languages" /> -->
 </p>
 
 <p align="center">
