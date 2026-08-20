@@ -74,6 +74,7 @@ Here are some of the technologies I work with:
   <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
   <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"></a>
   <a href="https://cursor.sh/"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-17BEBB?style=for-the-badge&logo=cursor&logoColor=white"></a>
+  <a href="https://antigravity.google"><img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 </p>
 
 ---
@@ -82,20 +83,14 @@ Here are some of the technologies I work with:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalmer&show_icons=true&theme=dark" alt="vishalmer" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalmer&layout=compact&langs_count=8&theme=dracula" alt="Your Top Languages" /> -->
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalmer&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
+
 ---
 
 ### ✨ My Favorite Quote
 
 > "Discipline Feels Like FREEDOM!"
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vishalmer/count.svg" alt="Visitor Count" />
-</p>
