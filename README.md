@@ -1,5 +1,12 @@
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="vishalmer's GitHub profile" src="dark_mode.svg" />
+  </picture>
+</div>
+
 <div id="header" align="center">
-  
   <h1>
     Hi there, I'm Vishal
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
